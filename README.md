@@ -3,10 +3,12 @@ Trabajo Practico Codo a Codo 2023 grupo 22
 
 Integrantes:
 Contreras,Carla
+
 Cuestas, Natalia
 
 
 ¿Qué hay que entregar?
+
 El TPO deberá cumplir con los siguientes requisitos:
 
 ● Poseer al menos 4 páginas html, siendo su temática libre. En caso de ser un Sitio
