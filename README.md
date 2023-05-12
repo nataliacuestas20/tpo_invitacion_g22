@@ -1,7 +1,11 @@
 # tpo_invitacion_g22
 ## Invitaciones Virtuales Web
 
-![](img\dispositivos.png){width='100px'}
+<div>
+<p style = 'text-align:center;'>
+<img src="img\dispositivos.png" alt="JuveYell" width="300px">
+</p>
+</div>
 
 Trabajo Practico Codo a Codo 2023 grupo 22
 
