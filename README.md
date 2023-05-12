@@ -1,5 +1,7 @@
 # tpo_invitacion_g22
-## Invitaciones Vistuales Web
+## Invitaciones Virtuales Web
+
+![](img\dispositivos.png){width='100px'}
 
 Trabajo Practico Codo a Codo 2023 grupo 22
 
